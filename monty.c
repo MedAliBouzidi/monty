@@ -1,4 +1,5 @@
 #include "monty.h"
+
 arg_t *args = NULL;
 
 /**
